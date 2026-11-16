@@ -1,0 +1,74 @@
+
+/*PERSONALIZAÇÃO DO PORTFÓLIO*/
+
+/*Fundo e textos*/
+body {
+    background-color: #E9DFC9;
+    color: #30291F;
+    font-family: Georgia, serif;
+}
+
+.text-primary:hover {
+    color: #A17D43 !important;
+}
+
+/*Barra de navegação*/
+.navbar {
+    background-color: #18251F !important;
+}
+
+.navbar-brand,
+.navbar .nav-link {
+    color: #E9DFC9 !important;
+}
+
+.navbar .nav-link:hover {
+    color: #B59A62 !important;
+}
+
+/*Títulos*/
+h1, h2, h3 {
+    color: #24372C;
+}
+
+.text-primary {
+    color: #24372C !important;
+}
+
+
+/*Cards dos projetos*/
+.card-body {
+    background-color: #F5EBDD;
+    border: 1px solid #B59A62;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card-body:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 18px rgba(24, 37, 31, 0.2);
+}
+
+/*Imagem de perfil*/
+.profile-img {
+    border: 3px solid #B59A62;
+}
+
+/*Imagens dos projetos*/
+.project-img {
+    border-radius: 5px;
+}
+
+/*Links*/
+a {
+    color: #66513D;
+}
+
+a:hover {
+    color: #A17D43;
+}
+
+/*Rodapé*/
+footer {
+    background-color: #18251F;
+    color: #E9DFC9;
+}
