@@ -13,7 +13,7 @@ do curso Técnico em Desenvolvimento de Sistemas.
 - Bootstrap 5
 
 ## Link do site
-Inserir link do GitHub Pages.
+https://rebeca-oliveirasb.github.io/PORTFOLIO/
 
 ## Funcionamento do projeto
 O site apresenta informações pessoais,
